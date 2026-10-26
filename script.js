@@ -13,27 +13,27 @@ const CONFIG = {
     {
       question: "Where did our story begin?",
       answers: ["At school", "Through a friend", "Somewhere unexpected", "Our own little secret"],
-      correct: 2
+      correct: 4
     },
     {
       question: "What makes our relationship special?",
       answers: ["Our little moments", "Our inside jokes", "Our memories", "All of them"],
-      correct: 3
+      correct: 4
     },
     {
       question: "What would I choose for our next date?",
       answers: ["A quiet night together", "An adventure", "A movie date", "Anything, as long as we're together"],
-      correct: 3
+      correct: 4
     },
     {
       question: "What's my favorite memory of us?",
       answers: ["Our first meeting", "Our first date", "A random ordinary day", "The moment we laughed together"],
-      correct: 2
+      correct: 3
     },
     {
       question: "One more year together means…",
       answers: ["More memories", "More adventures", "More reasons to love", "All of the above"],
-      correct: 3
+      correct: 4
     }
   ]
 };
